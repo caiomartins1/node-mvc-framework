@@ -1,0 +1,24 @@
+{
+  "name": "node-mvc-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiomartins1/node-mvc-framework.git"
+  },
+  "keywords": ["NodeJS", "JavaScript", "MVC", "MVC-Framework"],
+  "author": "Caio Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiomartins1/node-mvc-framework/issues"
+  },
+  "homepage": "https://github.com/caiomartins1/node-mvc-framework#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
